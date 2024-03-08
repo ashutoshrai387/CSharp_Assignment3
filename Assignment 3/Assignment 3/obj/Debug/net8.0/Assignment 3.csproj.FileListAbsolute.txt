@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\bin\Debug\net8.0\Assignment 3.exe
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\bin\Debug\net8.0\Assignment 3.deps.json
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\bin\Debug\net8.0\Assignment 3.runtimeconfig.json
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\bin\Debug\net8.0\Assignment 3.dll
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\bin\Debug\net8.0\Assignment 3.pdb
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.AssemblyInfo.cs
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.sourcelink.json
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.dll
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\refint\Assignment 3.dll
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.pdb
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\Assignment 3.genruntimeconfig.cache
+C:\Users\promact\Desktop\Week 6\CSharp_Assignment3\Assignment 3\Assignment 3\obj\Debug\net8.0\ref\Assignment 3.dll
